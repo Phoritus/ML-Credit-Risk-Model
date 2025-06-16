@@ -2,6 +2,8 @@
 
 A comprehensive AI-powered credit risk assessment system built with Streamlit and machine learning to evaluate loan default probability and credit scores.
 
+🤖🤑 **[Live Demo - Try the App](https://ml-credit-risk-modelation.streamlit.app)** 🚀
+
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
